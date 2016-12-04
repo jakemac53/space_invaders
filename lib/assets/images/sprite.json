@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "player.png",
+	"frame": {"x":0,"y":0,"w":94,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":100},
+	"sourceSize": {"w":94,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rocket.png",
+	"frame": {"x":94,"y":0,"w":19,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":49},
+	"sourceSize": {"w":19,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":113,"h":100},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4e2f4eed917d13f3ced6fa25f78611a2:6d52af12b018ffef7be9ab8a9b151ae8:68d88b3cf7eafc9b5accfffdfb2fda91$"
+}
+}

@@ -1,0 +1,5 @@
+name: space_invaders
+dependencies:
+  stagexl: any
+dev_dependencies:
+  browser: any
