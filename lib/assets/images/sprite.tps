@@ -197,7 +197,26 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">ships/player.png</key>
+            <key type="filename">ships/enemy_red_1.png</key>
+            <key type="filename">ships/enemy_red_2.png</key>
+            <key type="filename">ships/enemy_red_3.png</key>
+            <key type="filename">ships/enemy_red_4.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>10,14,20,29</rect>
+                <key>scale9Paddings</key>
+                <rect>10,14,20,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">ships/player_1.png</key>
+            <key type="filename">ships/player_2.png</key>
+            <key type="filename">ships/player_3.png</key>
+            <key type="filename">ships/player_4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -226,8 +245,15 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>ships/player.png</filename>
             <filename>ships/rocket.png</filename>
+            <filename>ships/player_1.png</filename>
+            <filename>ships/player_2.png</filename>
+            <filename>ships/player_3.png</filename>
+            <filename>ships/player_4.png</filename>
+            <filename>ships/enemy_red_4.png</filename>
+            <filename>ships/enemy_red_1.png</filename>
+            <filename>ships/enemy_red_2.png</filename>
+            <filename>ships/enemy_red_3.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
